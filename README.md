@@ -1,5 +1,8 @@
 # citybuddy
 
+This is the link for demo video and apk:
+https://drive.google.com/drive/folders/1CJQ8i_LUX2m5ujk6ztNE55St0ifuY-Kd?usp=sharing
+
 A new Flutter project.
 
 ## Getting Started
